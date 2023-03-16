@@ -5,8 +5,8 @@
 
 ##
 
-[![Lucas-hsp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-hsp&show_icons=true&theme=radical)](https://github.com/Yoluke/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-hsp&show_icons=true&theme=radical)](https://github.com/Yoluke/github-readme-stats)
+[![Yoluke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoluke&show_icons=true&theme=radical)](https://github.com/Yoluke/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoluke&show_icons=true&theme=radical)](https://github.com/Yoluke/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
